@@ -32,6 +32,8 @@ Layar:
 3. Halaman Detail Kegiatan: Menampilkan info lengkap ajakan, syarat pemain/tim, dan sisa slot kuota.
 4. Halaman Form Ajakan/Gabung: Berisi form untuk membuat/mengubah ajakan sparing atau form untuk ikut bergabung.
 5. Halaman Profil Pengguna: Menampilkan data akun pengguna, olahraga pilihan (voli/basket), dan riwayat sparing yang diikuti.
+6. Halaman Score Counter : Menampilkan skor pada kedua pihak pemain/tim.
+7. Halaman Tournament Randomizer : Menampilkan urutan kegiatan pemain secara acak.
 
 ## E. Backlog Awal
 1. Melihat dan memfilter daftar ajakan sparing voli atau basket dari server lewat GET /kegiatan. (Unsur: API, CRUD)
